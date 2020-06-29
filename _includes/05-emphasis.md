@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Analytical
+  a. *Critical* thinking
+  b. *Problem solving*
+  c. Logical
+
+2. Perseverance
+
+3. **Maow Maow**
+
+4. Combine **training _awesomeness**
+
+5. ~~Strikeout~~ using two tildes 
+
